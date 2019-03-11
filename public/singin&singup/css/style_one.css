@@ -1,0 +1,25 @@
+ .field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+      margin-right: 5px;
+  position: relative;
+  z-index: 2;
+}
+.form-login h2.form-login-heading {
+    margin: 0;
+    padding: 25px 20px;
+    text-align: center;
+    background: #4e52cd;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.btn-theme:hover, .btn-theme:focus, .btn-theme:active, .btn-theme.active, .open .dropdown-toggle.btn-theme {
+    color: #fff;
+    background-color: #4e52cd;
+    border-color: #4891bc;
+}
